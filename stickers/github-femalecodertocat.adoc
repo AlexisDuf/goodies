@@ -6,6 +6,6 @@ image::github-femalecodertocat.png[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/manekinekko[@manekinekko]
 * Empty spot
 * Empty spot
