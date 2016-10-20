@@ -6,5 +6,5 @@ image::github-lgbt.jpeg[]
 
 == Giveaway to
 
-* Empty spot
+* link:https://github.com/AlexisDuf[@AlexisDuf]
 * Empty spot
